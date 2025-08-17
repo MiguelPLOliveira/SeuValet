@@ -1,2 +1,2 @@
 # SeuValet
-Projeto de Otimização de tempo e transações via aplicativo
+Projeto de Otimização de tempo por meio de transações via aplicativo
